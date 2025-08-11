@@ -8,7 +8,7 @@ A modern React application built with the ZestNexus stack featuring a multi-step
 - **TypeScript** - Type-safe development
 - **Ant Design** - UI component library
 - **TailwindCSS** - Utility-first CSS framework
-- **Jotai** - Atomic state management
+- **Zustand** - Atomic state management
 - **Vite** - Fast build tool and dev server
 - **React Hook Form** - Form handling
 - **Jest + Testing Library** - Unit testing
